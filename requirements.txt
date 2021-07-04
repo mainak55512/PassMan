@@ -1,0 +1,11 @@
+altgraph==0.17
+chardet==4.0.0
+colorama==0.4.4
+prompt-toolkit==3.0.19
+pyasn1==0.4.8
+pyinstaller==4.3
+pyinstaller-hooks-contrib==2021.2
+questionary==1.9.0
+rsa==4.7.2
+wcwidth==0.2.5
+yapf==0.31.0
