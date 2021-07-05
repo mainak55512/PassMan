@@ -8,17 +8,17 @@ Simple CLI Password manager written in Python3
 
 - [@mainak55512](https://github.com/mainak55512)
 
-  
+
 ## Demo
 
-![PassMan](./resources/PassMan.gif)
+![PassMan](./Resources/PassMan.gif)
 
-  
+
 ## Screenshots
 
-![App Screenshot](./resources/PassMan.png)
+![App Screenshot](./Resources/PassMan.png)
 
-  
+
 ## Run Locally
 
 Clone the project
